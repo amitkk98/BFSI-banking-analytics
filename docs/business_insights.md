@@ -11,7 +11,7 @@
 **Business Implication:** Management can analyze the revenue generation and expense management practices of these top-performing branches to identify opportunities for improving profitability across other branches.
 
 
--### Q2. Which branches have the lowest profit margins?
+### Q2. Which branches have the lowest profit margins?
 
 **Finding:** Branch 1565 (Kolhapur) recorded the lowest profit margin across the banking network at -49.50%, followed by Branch 1683 (Mumbai) at -49.43% and Branch 1598 (Solapur) at -49.41%.
 
