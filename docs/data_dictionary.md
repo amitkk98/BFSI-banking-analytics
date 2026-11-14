@@ -57,6 +57,6 @@ The transaction dataset contains account-level and transaction-related financial
 **Granularity & Primary Keys:** The data model follows a relational star/snowflake structure anchored by unique primary keys across all core tables (`Branch_ID`, `Customer_ID`, and `Transaction_ID`).
 **Account & Investment Aggregation:** `Total_Account_Balance` was engineered by summing the latest available balance per `(Customer_ID, Account_Type)` pair, while `Current_Investment` reflects each customer's most recent recorded investment position.
 **Wealth & Activity Metrics:** Customer `Net_Worth` was derived as `Total_Account_Balance + Current_Investment`, alongside behavioral activity features (`Transaction_Count`, `Total_Transaction_Amount`, and `Last_Transaction_Date`) aggregated from historical transaction records.
-**Data Hygiene & Standardization:** Missing values, duplicate records, and date formats were standardized during the Python preprocessing pipeline (`02_data_cleaning.py` and `03_feature_engineering.py`) prior to PostgreSQL ingestion and Power BI modeling.
+**Data Hygiene & Standardization:** Missing values, duplicate records, and date formats were standardized during the Python preprocessing pipeline (`BFSI_Project.ipynb` and `Feature engineering.ipynb`) prior to PostgreSQL ingestion and Power BI modeling.
 
 
