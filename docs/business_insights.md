@@ -69,5 +69,3 @@ Analyzing transaction trends over time provides visibility into changes in trans
 The project demonstrates an end-to-end analytical approach to banking data, integrating financial performance, customer wealth, and transaction behavior.
 
 Python was used for data preparation and feature engineering, PostgreSQL and SQL were used for data validation and business analysis, and Power BI was used to communicate analytical findings through interactive dashboards.
-
-**Note:** The interpretations above describe the analytical purpose. Actual numerical findings, rankings, and business recommendations should be added after reviewing the completed analysis results.
