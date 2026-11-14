@@ -3,7 +3,7 @@
 ## 1. Branch Profitability Analytics
 
 ### Business Questions
-- ### Q1. Which branches generate the highest net income?
+### Q1. Which branches generate the highest net income?
 **Finding:** Branch 1793 (Nagpur) generated the highest net income of 964,344, followed by Branch 1052 (Nagpur) with 923,698 and Branch 1103 (Solapur) with 918,642.
 
 **Business Interpretation:** Nagpur demonstrated strong branch-level profitability, with two of its branches securing the top two positions in the overall ranking. This indicates that these branches are performing particularly well in terms of net income generation.
@@ -12,6 +12,7 @@
 
 
 -### Q2. Which branches have the lowest profit margins?
+
 **Finding:** Branch 1565 (Kolhapur) recorded the lowest profit margin across the banking network at -49.50%, followed by Branch 1683 (Mumbai) at -49.43% and Branch 1598 (Solapur) at -49.41%.
 
 **Business Interpretation:** All three branches reported significantly negative profit margins, indicating that their operating expenses exceed their revenue. This highlights potential financial and operational inefficiencies at these locations.
