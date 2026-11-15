@@ -62,7 +62,7 @@ Low-margin branches can be investigated further to understand the relationship b
 **Business Implication: Management should focus on retaining Premium customers through personalised banking services and suitable investment opportunities. The bank can also explore strategies to increase the wealth contribution of Regular and Gold customers through targeted financial products and relationship management.
 
 
-###Which customer segments have the highest net worth?
+### Q2. Which customer segments have the highest net worth?
 Finding: Premium customers hold the highest total net worth of 438,911,792, followed by Regular customers with 118,736,906. Gold customers have the lowest total net worth of 32,776,215.
 
 Business Interpretation: The Premium segment accounts for the largest share of the total customer wealth, indicating that it represents the bank's largest wealth-holding customer category.
