@@ -87,7 +87,14 @@ Dashboard screenshots and Power BI report files are available in the `powerbi/` 
 
 The analysis is designed to identify:
 
-- Differences in profitability across banking branches and regions.
-- Distribution of customer wealth and investment holdings.
-- Customer activity and transaction behavior.
-- Opportunities to investigate underperforming branches and customer segments.
+## Key Business Insights
+
+1. **Transaction Analysis:** Analysed 10,000 banking transactions with a total transaction value of ₹25.43 million, providing an overview of overall customer transaction activity.
+
+2. **Customer Activity:** Identified approximately 4,000 customers without associated transaction records, highlighting a significant segment with no recorded transaction activity.
+
+3. **Regional Profitability:** The East region recorded the highest revenue, expenses, and profit margin among the analysed regions.
+
+4. **Account Balance Distribution:** Current accounts held the highest total balance of 169,297,106, followed by Savings accounts at 167,388,500 and the third account category at 165,529,452, indicating a relatively balanced distribution across account categories.
+
+5. **Customer Segmentation:** Analysed customer segments based on customer count and net worth to understand the distribution of customer wealth and identify valuable customer groups.
