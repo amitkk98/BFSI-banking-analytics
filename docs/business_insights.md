@@ -20,13 +20,21 @@
 **Business Implication:** Management should investigate the expense structures and revenue-generation performance of these branches to identify the reasons behind their low profitability and explore opportunities to improve operational efficiency.
 
 
-### Q3How does profitability vary across different regions?
+### Q3. How does profitability vary across different regions?
+
 Finding: The East region recorded the highest revenue, highest expenses, and highest total net income of 67,348,167, followed by the South region at 66,542,108. The profit margin was approximately 48.9% across all three regions, indicating similar overall profitability ratios.
 
 Business Interpretation: The East region leads in terms of total financial contribution, generating the highest revenue and net income. However, the similar profit margins across all three regions suggest that their overall profitability ratios are comparable despite differences in business scale.
 
 Business Implication: Management can study the East region's revenue-generation strategies and operational practices to identify opportunities for growth in other regions. Since profit margins are similar, management should also investigate regional expense structures and revenue efficiency to identify further opportunities for profitability improvement.
-- Which regions contribute the most revenue?
+
+### Q4. Which regions contribute the most revenue?
+
+**Finding:** The East region contributes the highest revenue among all three regions, generating a total revenue of **137,279,334.90**.
+
+**Business Interpretation:** The East region is the leading contributor to the bank's overall revenue, indicating stronger revenue generation compared with the other regions.
+
+**Business Implication:** Management should analyse the East region's successful revenue-generation strategies and identify opportunities to implement similar practices in other regions to improve overall business revenue.
 
 ### Metrics Analyzed
 - Total Revenue
