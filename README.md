@@ -87,7 +87,7 @@ Dashboard screenshots and Power BI report files are available in the `powerbi/` 
 
 The analysis is designed to identify:
 
-## Key Business Insights
+### Key Business Insights
 
 1. **Transaction Analysis:** Analysed 10,000 banking transactions with a total transaction value of ₹25.43 million, providing an overview of overall customer transaction activity.
 
@@ -98,3 +98,9 @@ The analysis is designed to identify:
 4. **Account Balance Distribution:** Current accounts held the highest total balance of 169,297,106, followed by Savings accounts at 167,388,500 and the third account category at 165,529,452, indicating a relatively balanced distribution across account categories.
 
 5. **Customer Segmentation:** Analysed customer segments based on customer count and net worth to understand the distribution of customer wealth and identify valuable customer groups.
+
+### Business Recommendations
+- Investigate customers without recorded transactions and develop targeted engagement strategies.
+- Evaluate regional profitability to understand cost structures and identify opportunities for improving operational efficiency.
+- Analyse account balance distribution to identify deposit growth opportunities.
+- Monitor transaction trends to understand changes in customer activity over time.
