@@ -70,7 +70,13 @@ Business Interpretation: The Premium segment accounts for the largest share of t
 Business Implication: The bank should prioritise retaining Premium customers through personalised financial services and investment solutions while identifying opportunities to increase wealth accumulation among Regular and Gold customers.
 
 
-- What is the distribution of account balances?
+### Q3. What is the distribution of account balances?
+
+**Finding:** Current accounts hold the highest total balance of 169,297,106, followed by Savings accounts with 167,388,500 and the third account category with 165,529,452.
+
+**Business Interpretation:** Account balances are relatively evenly distributed across the three account categories, with Current accounts holding a slightly higher share of the total balance.
+
+**Business Implication:** Management can analyse customer preferences and account usage patterns across these categories to identify opportunities for deposit growth and improve customer retention.
 - How are customer investments distributed?
 - How many customers have no associated transaction records?
 
