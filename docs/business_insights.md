@@ -22,11 +22,11 @@
 
 ### Q3. How does profitability vary across different regions?
 
-Finding: The East region recorded the highest revenue, highest expenses, and highest total net income of 67,348,167, followed by the South region at 66,542,108. The profit margin was approximately 48.9% across all three regions, indicating similar overall profitability ratios.
+**Finding: The East region recorded the highest revenue, highest expenses, and highest total net income of 67,348,167, followed by the South region at 66,542,108. The profit margin was approximately 48.9% across all three regions, indicating similar overall profitability ratios.
 
-Business Interpretation: The East region leads in terms of total financial contribution, generating the highest revenue and net income. However, the similar profit margins across all three regions suggest that their overall profitability ratios are comparable despite differences in business scale.
+**Business Interpretation: The East region leads in terms of total financial contribution, generating the highest revenue and net income. However, the similar profit margins across all three regions suggest that their overall profitability ratios are comparable despite differences in business scale.
 
-Business Implication: Management can study the East region's revenue-generation strategies and operational practices to identify opportunities for growth in other regions. Since profit margins are similar, management should also investigate regional expense structures and revenue efficiency to identify further opportunities for profitability improvement.
+**Business Implication: Management can study the East region's revenue-generation strategies and operational practices to identify opportunities for growth in other regions. Since profit margins are similar, management should also investigate regional expense structures and revenue efficiency to identify further opportunities for profitability improvement.
 
 ### Q4. Which regions contribute the most revenue?
 
@@ -37,12 +37,11 @@ Business Implication: Management can study the East region's revenue-generation 
 **Business Implication:** Management should analyse the East region's successful revenue-generation strategies and identify opportunities to implement similar practices in other regions to improve overall business revenue.
 
 ### Metrics Analyzed
-- Total Revenue
-- Total Expenses
-- Net Income
-- Overall Profit Margin
-- Branch-wise Revenue
-- Regional Revenue Contribution
+- Total Revenue = 514.07M
+- Total Expenses = 265.33M
+-  Total Net Income = 248.75M
+- Overall Profit Margin = 0.48
+- Regional Revenue Contribution = 100%
 
 ### Business Interpretation
 Branch-level financial analysis helps identify differences in financial performance across banking locations. Revenue, expenses, and net income provide an understanding of branch profitability and operational efficiency.
@@ -52,8 +51,17 @@ Low-margin branches can be investigated further to understand the relationship b
 ## 2. Customer & Wealth Analytics
 
 ### Business Questions
-- How is customer wealth distributed?
+
+
+### Q1. How is customer wealth distributed across different customer types?
+
+**Finding: Premium customers hold the highest total wealth of 438,911,792, followed by Regular customers with 118,736,906. Gold customers hold the lowest total wealth of 32,776,215.
+
+**Business Interpretation: The Premium customer segment dominates the bank's overall customer wealth, accounting for the largest share of total net worth. This indicates that Premium customers represent the most significant wealth segment in the customer portfolio.
+
+**Business Implication: Management should focus on retaining Premium customers through personalised banking services and suitable investment opportunities. The bank can also explore strategies to increase the wealth contribution of Regular and Gold customers through targeted financial products and relationship management.
 - Which customer segments have the highest net worth?
+- 
 - What is the distribution of account balances?
 - How are customer investments distributed?
 - How many customers have no associated transaction records?
