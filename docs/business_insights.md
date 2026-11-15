@@ -20,7 +20,12 @@
 **Business Implication:** Management should investigate the expense structures and revenue-generation performance of these branches to identify the reasons behind their low profitability and explore opportunities to improve operational efficiency.
 
 
-- How does profitability vary across different regions?
+### Q3How does profitability vary across different regions?
+Finding: The East region recorded the highest revenue, highest expenses, and highest total net income of 67,348,167, followed by the South region at 66,542,108. The profit margin was approximately 48.9% across all three regions, indicating similar overall profitability ratios.
+
+Business Interpretation: The East region leads in terms of total financial contribution, generating the highest revenue and net income. However, the similar profit margins across all three regions suggest that their overall profitability ratios are comparable despite differences in business scale.
+
+Business Implication: Management can study the East region's revenue-generation strategies and operational practices to identify opportunities for growth in other regions. Since profit margins are similar, management should also investigate regional expense structures and revenue efficiency to identify further opportunities for profitability improvement.
 - Which regions contribute the most revenue?
 
 ### Metrics Analyzed
